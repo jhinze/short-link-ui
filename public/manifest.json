@@ -1,0 +1,9 @@
+{
+  "short_name": "Short Link",
+  "name": "Short Link",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#424242",
+  "background_color": "#424242"
+}
